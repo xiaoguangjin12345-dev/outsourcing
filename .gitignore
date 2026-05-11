@@ -1,0 +1,26 @@
+# .NET (Backend)
+[Bb]in/
+[Oo]bj/
+.vs/
+.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node (Frontend)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor (VS Code & Others)
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env*.local
